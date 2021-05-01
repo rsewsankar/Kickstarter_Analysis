@@ -13,8 +13,11 @@ The first analysis was done on the Parent Category by years and further filtered
 ### Analysis of Outcomes Based on Launch Date
 The Parent Category was further fitered to reflect the Theater campaign and the success, fail, and cancel outcome based on the launch date. The data shows May to be the most successful Theater campaign launched and also the most successful campaign. For failed campaign, it looks like August had the maost failed campaign and also the most failed Theater campaign launched. Out of the 1369 Theater campaigns launched, there were only 37 cancelled campaigns, with 5 canceled campaign being the most in May, October, and December.
 
+
 ### Analysis of Outcomes Based on Goals
 The Outcome Based on Goals analysis was done on the Plays campaign showing the percentage of successful, failed, and canceled campaign based on the funding goal amount. After analysising this data, it shows that for goals less than $1000 was the most successful campaigns with a 76% success rate. There were 186 total campaigns in that range. Goals between $1000 and $4999 had a total of 534 campaigns and was the second most successful campaing with 73%. The data shows the the goal range between $4500 and $49999 had a 0% successfu campaign and thus had the most failed campaign of 100%. Goals above $50000 had the most failed campaign, 83%. Since ther were not as many cancelled campaign comapred to the toal campaign launched, camceled campaign is 0% across the board.
+
+![Outcomes_Based_on Goals](https://github.com/rsewsankar/Kickstarter_Analysis/blob/main/Resources/Outcomes_Based_on_Goals.png)
 
 ### Challenges and Difficulties Encountered
 It was challenging to get the months on the pivot table for the successful, failed, and canceled campaigns for the Theater campaign. Also, listing the outcomes in descending order was a challenge and difficulty.
