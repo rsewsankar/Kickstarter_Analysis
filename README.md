@@ -24,25 +24,26 @@ Based on the analysis, it can be concluded that campaigns launched in the month 
 than any other month of the year. Campaigns launched in December are least likely to be successful. August is the month with the most failed campaign and December the least failed campaign. When looking at total canceled campaigns, 37, with respect to total campaigns, 1369. there is only a 2.7% campaign that was canceled, not a bad cancellation rate. 
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-    Based on the analysis done for the launched date it can be concluded that May is the best month to launch     campaigns because it is the month where there are more successful campaigns launched and December being       the worst month to launch campaign. The least number of successful campaign was launched in December.
+    - Based on the analysis done for the launched date it can be concluded that May is the best month to launch Campaigns because it is the month where there are more
+     successful campaigns launched and December being the worst month to launch campaign. The least number of successful campaign was launched in December.
     
 - What can you conclude about the Outcomes based on Goals?
-    With regards to Outcome Based on Goals, it can be concluded that goals of less than $1000 are more
+    - With regards to Outcome Based on Goals, it can be concluded that goals of less than $1000 are more
     attainable because that was range had the highest success rate. Goals set between $45000 and $49000 are
     difficult to attain because the range had the least success rate, 0%. There were a lot more project done
     between the goal range of $5000 and $9999, so there were a lot more successful (141) and a lot more
     failed projects (146) and this range had the second most success rate.
     
 - What are some limitations of this dataset?
--   This data was second had data that was given fo use in this project. There is not way to know the 
--   accuracy of this data or how it was collected to know if there were any bias or false information. It
--   would be difficult to know the representation of this data to previous data since that was not given.
--   The data is limited to one year. The analysis was done based on only the Theater and Plays campaign
--   and not all the campaigns.
+     - This data was second had data that was given fo use in this project. There is not way to know the 
+   accuracy of this data or how it was collected to know if there were any bias or false information. It
+   would be difficult to know the representation of this data to previous data since that was not given.
+  The data is limited to one year. The analysis was done based on only the Theater and Plays campaign
+  and not all the campaigns.
 
 - What are some other possible tables and/or graphs that we could create?
--   It would have been interesting to see the comparison of all the campaigns to know which one was more'
--   successful. This would give a better understanding of which campaign does better in which month.
--   Comparing only two campaigns does not give information on the entire campaigns. That is a very narrow'
--   focus that does not give the entire picture.
+    - It would have been interesting to see the comparison of all the campaigns to know which one was more'
+  successful. This would give a better understanding of which campaign does better in which month.
+ Comparing only two campaigns does not give information on the entire campaigns. That is a very narrow'
+  focus that does not give the entire picture.
 
